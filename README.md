@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏽Computer Engineering student at University Facens, Sorocaba/SP<br>📚 Developer Begginer<br>🎯Goals: 👨🏽‍💻Full Stack Developer<br>🎲Hobbies: Code,Gym, Anime, Games and Music</p>
+<p align="left">👨🏽Computer Engineering student at University Facens, Sorocaba/SP<br>📚 Developer Begginer<br>🎯Goals: 👨🏽‍💻Software Architect<br>🎲Hobbies: Code,Gym, Anime, Games and Music</p>
 
 ###
 
