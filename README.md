@@ -48,8 +48,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Victor-ro-dev&theme=tokyonight&hide_border=false" height="185" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Victor-ro-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&hide=html,css" height="185" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Victor-ro-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&hide=html,css" height="185" alt="languages graph" />
 </div>
+
 
 
 
