@@ -1,4 +1,4 @@
-<h1 align="left">Suave 🤙🏼🤙🏼 My name is Victor 🤙🏼🤙🏼</h1>
+<h1 align="left">Victor Rodrigues de Oliveira</h1>
 
 ###
 
